@@ -1,0 +1,38 @@
+PROFESSIONAL SUMMARY
+Technology Analyst with 4+ years of experience in Java, Spring Boot, and AWS cloud services. Modernized legacy systems and improved build efficiency by 60% through continuous integration and deployment (CI/CD) pipelines using Jenkins and Git. Boosted application performance by 35% through optimized SQL and microservices architecture. Led architectural Proofs of Concept (PoC) solutions for Infosys Limited clients such as Vanguard to validate feasibility and minimize technical risks.
+TECHNICAL SKILLS
+Programming Languages:Java (Core & J2EE), SQL, PL/SQL, C, C++
+Java/J2EE Technologies:Servlets, JSP, JSTL, JDBC, JMS, JNDI, RMI, EJB, Multi-threading, Swing, AWT
+J2EE&ORM Frameworks:Spring MVC, Spring Boot, Spring Security, Struts 2.0, JSF, Hibernate, iBatis
+Web Technologies:JavaScript, jQuery, AJAX, XML, XSLT, XHTML, DHTML, CSS, SASS, HTML5, Angular.js, Backbone.js
+Web/Application Servers:Apache Tomcat, JBoss, WebLogic, IBM WebSphere
+Web Services& Databases : RESTfulAPIs, SOAP, JAX-RS, JAX-WS, WSDL, Apache CXF, Oracle, DB2, MySQL, SQL Server, MongoDB, Cassandra
+Build & Version Control Tools:Maven, Gradle, ANT; Git, SVN, CVS, ClearCase
+Testing & Automation:JUnit, TestNG, Mockito, Power Mock, Easy Mock, Jasmine, Karma, Protractor, Selenium, SoapUI, Jenkins, Docker, Log4J
+Development IDEs:Eclipse, IntelliJ IDEA, NetBeans, Spring Tool Suite (STS)
+Methodologies & Tools:Agile (Scrum), Waterfall, Rapid Application Development (RAD), Test-Driven Development (TDD),
+Operating Systems:Windows, Linux, Mac OS, UNIX
+WORK EXPERIENCE
+Technology Analyst| Infosys Limited (Client: VANGUARD) January 2021 - February 2025
+Project Description: Transformed and modernized a legacy workflow platform by developing a scalable, cloud-based
+back-office solution that consolidated all core functionalities, applications, and data feeds. Integrated with existing
+systems, enabled advanced business intelligence and analytics, and ensured rapid adaptability to evolving business and
+regulatory requirements using industry best practices.
+Role and Responsibilities:
+•Leveraged Java 8 and 11 features, including Lambda Expressions, Method References, and the Concurrency API, to enhance code efficiency and parallel execution.
+•Led architectural discussions and developed Proof of Concept (PoC) solutions to validate feasibility and minimize technical risks.
+•Architected and built web components and process models using Spring Framework, Appian, JSP, Servlets, and custom tag libraries within Eclipse IDE.
+•Built scalable RESTful Web Services under a Service-Oriented Architecture (SOA) and integrated CRUD operations with backend systems.
+•Created Spring Boot-based microservices, improving modularization and system scalability.
+•Utilized Jenkins for continuous integration and deployment (CI/CD) pipelines and Git for version control and codebase management, improving build efficiency by 60%.
+•Wrote and optimized complex SQL queries, stored procedures, and triggers on SQL Server for data manipulation and reporting, increasing application performance by 35%.
+•Followed Test-Driven Development (TDD) practices; authored unit tests using JUnit 5 and implemented logging with Log4j, enhancing code quality.
+•Executed and validated JSON-based API requests and responses using Postman to ensure comprehensive endpoint testing.
+•Managed build dependencies and configurations using Maven and integrated Apache Kafka for streaming data between microservices, achieving 99.9% uptime for the architecture.
+•Created real-time, dynamic reports using Jasper Reports 5.1, enabling visual data insights for business stakeholders.
+•Devised and deployed AWS Lambda functions triggered by S3 events and orchestrated APIs with API Gateway, reducing deployment time by 40% and infrastructure complexity.
+•Configured Hibernate ORM for persistence layer mappings and transactional data handling.
+•Participated in design and code review sessions, collaborated on best practices, and presented completed modules to clients and internal teams.
+EDUCATION
+Masters of Science in Computer Science - New Jersey Institute of Technology - Newark, New Jersey - USA
+MBA Project Management – University of Fairfax – Salem,VA - USA
